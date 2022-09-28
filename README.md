@@ -1,5 +1,5 @@
 
-# Ransomware-Transactions-Detection
+# Detection of Ransomware--Transactions
 
 ### Problem Statement:
 To determine whether the bitcoin transaction is a ransomware attack or not, use a categorization model. 
