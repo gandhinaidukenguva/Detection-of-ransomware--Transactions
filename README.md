@@ -2,7 +2,7 @@
 # Ransomware-Transactions-Detection
 
 ### Problem Statement:
-Build a classification  model to detect whether the bitcoin transaction is  a ransomware attack or not.
+To determine whether the bitcoin transaction is a ransomware attack or not, use a categorization model. 
 
 ### Dataset:
 The dataset is provided by UCI. It has  2,916,697 records with 10 features like the bitcoin transaction address and date. 
@@ -23,16 +23,16 @@ AdaBoosting with XGB, GBT and GNB
 ![CM](https://raw.githubusercontent.com/SDAIA-T5-Projects/Ransomware-Transactions-Detection/main/Photo/CM.png)
 ![AUC](https://raw.githubusercontent.com/SDAIA-T5-Projects/Ransomware-Transactions-Detection/main/Photo/AUC.png)
 
-Accuracy   =  0.9118<br>
-Precision  =  0.896 <br>
-Recall        =  0.9319 <br>
-F-Score       =  0.9136<br>
-AUC           = 0.97
+Accuracy   =  0.9120<br>
+Precision  =  0.898 <br>
+Recall        =  0.9321 <br>
+F-Score       =  0.9138<br>
+AUC           = 0.972
 
 
-### Recommendations:
 
-For future work, we recommend collecting more updated data with more significant features like the time and targeted company information.
+
+
 
 
 
